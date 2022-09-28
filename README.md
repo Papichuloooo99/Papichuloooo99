@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Papichuloooo99
+- 👋 Hi, I'm chukwuemeka Paul Ekwealor
 - 👀 I’m interested in web development and software dev
-- 🌱 I’m currently learning the rediments of web development
-- 💞️ I’m looking to collaborate on ...
+- 🌱 javascript ,react.js ,bootstrap, node.js
 - 📫 How to reach me twitter@ eetz_paul 
 
 <!---
