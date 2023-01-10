@@ -1,6 +1,6 @@
 - 👋 Hi, I'm chukwuemeka Paul Ekwealor
-- 👀 I’m interested in web development and software dev
-- 🌱 javascript ,react.js ,bootstrap, node.js
+- 👀 I’m a software developer
+- 🌱 
 - 📫 How to reach me twitter@ eetz_paul 
 
 <!---
